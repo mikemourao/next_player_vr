@@ -1,5 +1,7 @@
+import { Button } from '@mui/material';
+
 const Index = () => {
-  return <div>test</div>;
+  return <Button>Test</Button>;
 };
 
 export default Index;

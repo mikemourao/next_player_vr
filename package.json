@@ -26,6 +26,12 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
     "next": "^13.4.12",
     "next-seo": "^6.1.0",
     "next-sitemap": "^4.1.8",
